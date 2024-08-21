@@ -3,3 +3,6 @@
 
 # Nhưng không bỏ qua tệp .gitignore
 !.gitignore
+
+# Nhưng không bỏ qua tệp nghia-extensions-rename-time.py
+!nghia-extensions-rename-time.py
